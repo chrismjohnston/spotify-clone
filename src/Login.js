@@ -3,7 +3,7 @@ import "./Login.css";
 
 function Login() {
   return (
-    <div>
+    <div className="login">
       {/* Spotify logo */}
       {/* Login with spotify button */}
     </div>
